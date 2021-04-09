@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'dikshant-WebApp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_54a7152ca3e7406b82a6f5a4aea77bb8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_859796f5889647beac8d5c4970d69111 }}
         package: .
